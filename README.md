@@ -1,0 +1,1 @@
+# LITG-single-equity
