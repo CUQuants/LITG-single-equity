@@ -4,7 +4,6 @@ import yfinance as yf
 import datetime as dt
 import streamlit as st
 import plotly.express as px
-import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 
 def find_n_return_rf(df):
